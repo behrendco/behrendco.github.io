@@ -1,1 +1,3 @@
-# behrendco.github.io
+# behrend.co
+
+Personal website
