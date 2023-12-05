@@ -1,3 +1,3 @@
 # behrend.co
 
-Personal website
+Personal website: [behrend.co](https://behrend.co)
